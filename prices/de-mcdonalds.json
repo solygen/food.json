@@ -1,6 +1,6 @@
 {
-    timestamp: 1386700763608,
-    data : {
+    "timestamp": 1386700763608,
+    "data" : {
         "Big Mac": {
             "size": "",
             "price": "€ 3,59"
