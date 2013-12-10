@@ -1,0 +1,169 @@
+{
+    timestamp: 1386700763608,
+    data : {
+        "Big Mac": {
+            "size": "",
+            "price": "€ 3,59"
+        },
+        "Big Tasty Bacon": {
+            "size": "",
+            "price": "€ 4,79"
+        },
+        "Hamburger Royal TS": {
+            "size": "",
+            "price": "€ 3,69"
+        },
+        "Hamburger Royal Käse": {
+            "size": "",
+            "price": "€ 3,69"
+        },
+        "McChicken": {
+            "size": "",
+            "price": "€ 3,49"
+        },
+        "McRib": {
+            "size": "",
+            "price": "€ 3,49"
+        },
+        "Filet-o-Fish": {
+            "size": "",
+            "price": "€ 3,19"
+        },
+        "Hamburger": {
+            "size": "",
+            "price": "€ 1,00"
+        },
+        "Cheeseburger": {
+            "size": "",
+            "price": "€ 1,19"
+        },
+        "Chickenburger": {
+            "size": "",
+            "price": "€ 1,19"
+        },
+        "Chickenburger TS": {
+            "size": "",
+            "price": "€ 1,59"
+        },
+        "Veggieburger TS": {
+            "size": "",
+            "price": "€ 1,59"
+        },
+        "McDouble": {
+            "size": "",
+            "price": "€ 1,59"
+        },
+        "McWrap Italian Chicken Mozzarella": {
+            "size": "",
+            "price": "€ 3,79"
+        },
+        "McWrap Thai Curry Chicken": {
+            "size": "",
+            "price": "€ 3,79"
+        },
+        "McWrap Marokko Veggie": {
+            "size": "",
+            "price": "€ 3,79"
+        },
+        "Snack Wrap TS": {
+            "size": "",
+            "price": "€ 1,59"
+        },
+        "Pommes Frites": {
+            "size": "klein",
+            "price": "€ 1,59"
+        },
+        "Chicken Mc Nuggets": {
+            "size": "4 Stück",
+            "price": "€ 2,19"
+        },
+        "Snack Salat Classic": {
+            "size": "",
+            "price": "€ 1,49"
+        },
+        "Snack Salat Couscous": {
+            "size": "",
+            "price": "€ 2,49"
+        },
+        "Snack Salat Chef": {
+            "size": "",
+            "price": "€ 2,49"
+        },
+        "Snack Salat Tomate Mozzarella": {
+            "size": "",
+            "price": "€ 2,49"
+        },
+        "Cola": {
+            "size": "0,25 l",
+            "price": "€ 1,19"
+        },
+        "Limonade": {
+            "size": "0,25 l",
+            "price": "€ 1,19"
+        },
+        "Apfelschorle": {
+            "size": "0,25 l",
+            "price": "€ 1,19"
+        },
+        "Mineralwasser": {
+            "size": "0,25 l",
+            "price": "€ 1,19"
+        },
+        "Stilles Mineralwasser": {
+            "size": "0,5 l",
+            "price": "€ 2,19"
+        },
+        "Orangensaft": {
+            "size": "0,25 l",
+            "price": "€ 1,59"
+        },
+        "Biomilch": {
+            "size": "0,25 l",
+            "price": "€ 1,29"
+        },
+        "Bier": {
+            "size": "0,33 l",
+            "price": "€ 2,19"
+        },
+        "Kaffee": {
+            "size": "klein",
+            "price": "€ 1,00"
+        },
+        "Cappuccino": {
+            "size": "klein",
+            "price": "€ 1,49"
+        },
+        "Latte Macchiato": {
+            "size": "groß",
+            "price": "€ 2,19"
+        },
+        "Heißes Kakaogetränk": {
+            "size": "klein",
+            "price": "€ 1,49"
+        },
+        "Tee": {
+            "size": "klein",
+            "price": "€ 1,39"
+        },
+        "McSundae Eisbecher": {
+            "size": "",
+            "price": "€ 1,00"
+        },
+        "McFlurry": {
+            "size": "",
+            "price": "€ 1,99"
+        },
+        "Milchshake": {
+            "size": "klein",
+            "price": "€ 1,69"
+        },
+        "Bio Apfeltüte": {
+            "size": "",
+            "price": "€ 1,29"
+        },
+        "Heiße Apfeltasche": {
+            "size": "",
+            "price": "€ 1,00"
+        }
+    } 
+}
