@@ -1,0 +1,181 @@
+{
+    "timestamp": 1386700763608,
+    "data" : {
+        "Whopper": {
+            "size": "",
+            "price": "€ 3,89"
+        },
+        "Double Whopper": {
+            "size": "",
+            "price": "€ 4,89"
+        },
+        "Big King": {
+            "size": "",
+            "price": "€ 3,69"
+        },
+        "Big King XXL": {
+            "size": "",
+            "price": "€ 4,99"
+        },
+        "X-Tra Long Chili Cheese": {
+            "size": "",
+            "price": "€ 4,49"
+        },
+        "Double Steakhouse": {
+            "size": "",
+            "price": "€ 4,99"
+        },
+        "Double Cheeseburger": {
+            "size": "",
+            "price": "€ 2,89"
+        },
+        "Double Chili Cheese Burger": {
+            "size": "",
+            "price": "€ 2,89"
+        },
+        "Chili Cheese Burger": {
+            "size": "",
+            "price": "€ 1,49"
+        },
+        "Bacon Cheeseburger": {
+            "size": "",
+            "price": "€ 1,49"
+        },
+        "Cheeseburger": {
+            "size": "",
+            "price": "€ 1,19"
+        },
+        "Hamburger": {
+            "size": "",
+            "price": "€ 0,99"
+        },
+        "Whopper Jr.": {
+            "size": "",
+            "price": "€ 1,99"
+        },
+        "Long Chicken": {
+            "size": "",
+            "price": "€ 3,89"
+        },
+        "Crispy Chicken": {
+            "size": "",
+            "price": "€ 3,69"
+        },
+        "Little Grilled Chicken": {
+            "size": "",
+            "price": "€ 1,99"
+        },
+        "Chicken Nugget Burger": {
+            "size": "",
+            "price": "€ 1,49"
+        },
+        "Pommes Frites": {
+            "size": "klein",
+            "price": "€ 1,49"
+        },
+        "King Nuggets": {
+            "size": "6 Stück",
+            "price": "€ 3,29"
+        },
+        "Chili Cheese Nuggets": {
+            "size": "6 Stück",
+            "price": "€ 3,29"
+        },
+        "King Wings": {
+            "size": "6 Stück",
+            "price": "€ 3,29"
+        },
+        "Onion Rings": {
+            "size": "6 Stück",
+            "price": "€ 1,99"
+        },
+        "Delight Salad": {
+            "size": "",
+            "price": "€ 2,49"
+        },
+        "Cola": {
+            "size": "0,25 l",
+            "price": "€ 1,19"
+        },
+        "Limonade": {
+            "size": "0,25 l",
+            "price": "€ 1,19"
+        },
+        "Mineralwasser": {
+            "size": "0,25 l",
+            "price": "€ 1,19"
+        },
+        "Stilles Mineralwasser": {
+            "size": "0,5 l",
+            "price": "€ 2,39"
+        },
+        "FruchtTiger": {
+            "size": "0,25 l",
+            "price": "€ 1,49"
+        },
+        "Bier": {
+            "size": "0.33 l",
+            "price": "€ 2,19"
+        },
+        "Espresso": {
+            "size": "",
+            "price": "€ 1,19"
+        },
+        "Café Crème": {
+            "size": "small",
+            "price": "€ 1,49"
+        },
+        "Cappuccino": {
+            "size": "small",
+            "price": "€ 1,49"
+        },
+        "Milchkaffee": {
+            "size": "small",
+            "price": "€ 1,49"
+        },
+        "Latte Macchiato": {
+            "size": "medium",
+            "price": "€ 1,99"
+        },
+        "Heißes Kakaogetränk": {
+            "size": "small",
+            "price": "€ 1,49"
+        },
+        "Tee": {
+            "size": "medium",
+            "price": "€ 1,99"
+        },
+        "Frozen Smoothie oder Frappé": {
+            "size": "small",
+            "price": "€ 2,49"
+        },
+        "King Shake": {
+            "size": "0,2 l",
+            "price": "€ 1,69"
+        },
+        "X-Cream Sundae": {
+            "size": "",
+            "price": "€ 1,99"
+        },
+        "King Sundae": {
+            "size": "",
+            "price": "€ 0,99"
+        },
+        "Hot Brownie": {
+            "size": "ohne Eis",
+            "price": "€ 1,49"
+        },
+        "Muffin": {
+            "size": "",
+            "price": "€ 1,99"
+        },
+        "Mini Pancakes": {
+            "size": "6 Stück",
+            "price": "€ 0,99"
+        },
+        "Donut": {
+            "size": "",
+            "price": "€ 1,29"
+        }
+    } 
+}
